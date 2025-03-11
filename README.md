@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=yellow&label=🐇"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=yellow&label=tuahs+hawked+="> </p>
 
 <p align="center"> <ins> hawk my tuah </ins> </p>
 
