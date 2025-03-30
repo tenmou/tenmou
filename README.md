@@ -9,4 +9,4 @@
 <p align="center"> <a href="https://bonemarrowz.straw.page">strawpage</a> </p>
 
 <p align="center"> <sub> layout by @IHASAFACE-LULZ </sub> </p>
-<p align="center"> ╰──────────────────────────────────────────────────────────────────────────────────╮ </p>
+<p align="center"> ╰──────────────────────────────────────────────────────────────────────╮ </p>
