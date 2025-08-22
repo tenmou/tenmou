@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=blue&label=🐇"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=green&label=🐇"> </p>
 
 <p align="center"> <ins> sign my sp</ins> </p>
 
