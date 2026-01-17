@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=green&label=🐇"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=orange&label=🐇"> </p>
 
 <p align="center"> <ins> new sp is a wip, nothing in link below</ins> </p>
 
