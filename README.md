@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=red&label=🐇"> </p>
 
-<p align="center"> <ins> glados or ryoshu</ins> </p>
+<p align="center"> <ins> fuzi or ryoshu</ins> </p>
 
 <p align="center"> <sub> they them only </sub> </p>
 <p align="center"> <sub> i usually sit by the spawn with friends </sub> </p>
