@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=white&label=🐇"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=green&label=🐇"> </p>
 
 <p align="center"> <ins> fuzi or spoke</ins> </p>
 
