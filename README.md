@@ -1,9 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tenmou&color=green&label=🐇"> </p>
 
-<p align="center"> <ins> fuzi or spoke</ins> </p>
+<p align="center"> <ins> 7rs or spoke</ins> </p>
 
 <p align="center"> <sub> they them only </sub> </p>
-<p align="center"> <sub> i usually sit by the spawn with friends </sub> </p>
+<p align="center"> <sub> i usually sit by the roblox area with friends </sub> </p>
 <p align="center"> <sub> project moon, mcyt & roblox </sub> </p>
 
 <p align="center"> ╰────────────────────────────────────────╮ </p>
